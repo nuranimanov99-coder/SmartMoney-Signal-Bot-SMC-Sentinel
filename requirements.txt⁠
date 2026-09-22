@@ -1,4 +1,4 @@
-ccxt
-pandas
-python-telegram-bot
+ccxt>=4.0.0
+pandas>=2.0.0
+python-telegram-bot>=20.0
 pytz
